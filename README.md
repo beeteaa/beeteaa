@@ -1,4 +1,6 @@
-👋 Hi, I’m Brandon (@beeteaa)
+<h2>
+
+  👋 Hi, I’m Brandon (@beeteaa)
 <hr>
 👀 I’m interested in becoming the coolest Software Engineer you've ever seen. I like back-end development... (and back-end inspection 😉) 
 and working with languages like Java and Javascript
@@ -19,8 +21,7 @@ I despise front-end development... so I use google for that
   - 🤖Discord: beeteaa
   - 💌Gmail: 
 
-
-
+<h2/>
 
 
 
