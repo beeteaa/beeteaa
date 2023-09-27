@@ -10,8 +10,8 @@ I despise front-end development... so I use google for that
 <br/><br/>
 🌱 I’m currently learning a lot of things:
   - Data analysis
-  - Full Stack development
-  - Mobile App development
+  - Full stack development
+  - Mobile app development
 
 <br/>
 
