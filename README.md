@@ -3,6 +3,7 @@
 👀 I’m interested in becoming a software engineer. I like back-end development... (and inspection 😉). 
   - Java, JavaScript
   - Python
+  
 🌱 I’m currently learning a lot of things:
   - Data analysis
   - Full Stack development
