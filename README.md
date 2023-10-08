@@ -20,7 +20,6 @@ I despise front-end development... so I use google for that
   - 🤖Discord: beeteaa
   - 💌Gmail:
 
+-------------------------------------------------------------------------------
 
-<hr>
-
-https://beeteaa.github.io/reaper/
+<URL>https://beeteaa.github.io/reaper/<url/>
