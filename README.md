@@ -18,4 +18,9 @@ I despise front-end development... so I use google for that
 
 📫 You can reach me at:
   - 🤖Discord: beeteaa
-  - 💌Gmail: 
+  - 💌Gmail:
+
+
+<hr>
+
+https://beeteaa.github.io/reaper/
